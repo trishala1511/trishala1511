@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Trishala Sawant
 
-I’m a Software Engineer with 4+ years of professional experience building backend systems and cloud-native microservices. My work spans Java, Spring Boot, TypeScript, AWS, and Kubernetes.
+I’m a Software Engineer with 4.5+ years of professional experience building backend systems and cloud-native microservices. My work spans Java, Spring Boot, TypeScript, AWS, and Kubernetes.
 
 ## 🔧 Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
